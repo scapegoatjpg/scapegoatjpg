@@ -9,8 +9,8 @@ Welcome to my personal GitHub account, I have another account that's mostly for 
 
 
 
-Currently, I am a high school AP Computer Science teacher at Heights High School, so I am getting used to managing class time and planning along with my personal life and projects that I wish to work on. I specifically only teach AP Computer Science Principles for now, but I have informed that I will be able to teach more advanced classes for students who are interested. 
+Currently, I am a high school Computer Science teacher at Klein Oak High School, so I am getting used to managing class time and planning along with my personal life and projects that I wish to work on. More specifically, I teach Computer Science 1, 2, and 3, along with AP Computer Science Principles and Foundations of Cybersecurity.
 
 Along with my projects and work, I plan to start a YouTube channel that will document my progress with my projects and educational videos on CS basics. Though, I'm not sure when I'm going to implement this, but I do plan to soon, *perphas within a year*.
 
-I'll add one more onto this uwu
+I'll add on more onto this uwu
